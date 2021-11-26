@@ -1,4 +1,4 @@
-# madilb ( change the name of the variable by mayank)
+# madilbs ( change the name of the variable by mayank)
 #  its a project for filling  a gaps of paragraph
 #  so , I m using string concatenate for filling the gaps of  paragraph
 
